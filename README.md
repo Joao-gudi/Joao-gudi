@@ -7,6 +7,11 @@
 📚 Estudante de Matemática e interessado na área de TI e desenvolvimento de sistemas.
 💼 Experiência no setor de **PPCP**, automação de processos e otimização de produção.
 
+💡 Passionate about technology, automation and software development. 
+🎯 Currently, focused on improving my skills in C#, Python and Java. 
+📚 Mathematics student interested in IT and systems development. 
+💼 Experience in the PPCP sector, process automation and production optimization.
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas:
