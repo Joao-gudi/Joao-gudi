@@ -1,3 +1,5 @@
+## 🌍 Sobre Mim / About Me
+
 ### Olá! Eu sou João Gabriel Gudilunas 👋
 
 💡 Apaixonado por tecnologia, automação e desenvolvimento de software.
@@ -10,12 +12,18 @@
 ## 🚀 Tecnologias e Ferramentas:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Ardis-005CA9?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <a href="https://dev.java/">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    </a>
+    <a href="https://www.python.org/doc/">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </div>
 
 ---
