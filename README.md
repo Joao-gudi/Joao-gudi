@@ -1,4 +1,3 @@
-## 🌍 Sobre Mim / About Me
 
 ### Olá! Eu sou João Gabriel Gudilunas 👋
 
